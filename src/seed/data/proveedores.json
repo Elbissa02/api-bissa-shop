@@ -1,0 +1,29 @@
+[
+    {
+        "DNI":"77877843I",
+        "nombre":"Martin",
+        "direccion":"Calle Corte, 5 (Alicante)",
+        "telefono":"898987654"
+    },
+
+    {
+        "DNI":"25673891H",
+        "nombre":"Jose Luis",
+        "direccion":"Calle Madrid, 8 (Extremadura)",
+        "telefono":"675432897"
+    },
+
+    {
+        "DNI":"89241356Y",
+        "nombre":"Antonia",
+        "direccion":"Calle Lago, 4 (Madrid)",
+        "telefono":"654321895"
+    },
+
+    {
+        "DNI":"6678921Y",
+        "nombre":"Alicia",
+        "direccion":"Calle Santiago, 1 (Bilbao)",
+        "telefono":"676578943"
+    }
+]

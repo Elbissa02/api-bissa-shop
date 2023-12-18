@@ -1,0 +1,38 @@
+[
+    {
+        "NIF": "12345678T",
+        "nombre": "Clara",
+        "apellido": "Rodriguez",
+        "direccion": "Calle Sevilla, 18 (Pulpi)",
+        "telefono": "695120367",
+        "usuarioCodigo": "643"
+    },
+    {
+        "NIF": "20365478P",
+        "nombre": "Diego",
+        "apellido": "Oller",
+        "direccion": "Calle Manzano, 7 (Huercal-Overa)",
+        "telefono": "676890921"
+    },
+    {
+        "NIF": "25673891H",
+        "nombre": "Carlos",
+        "apellido": "Parra",
+        "direccion": "Calle Gil, 4 (Huercal-Overa)",
+        "telefono": "654543789"
+    },
+    {
+        "NIF": "25367876L",
+        "nombre": "Pedro",
+        "apellido": "Martinez",
+        "direccion": "Calle Cordoba, 12 (Huercal-Overa)",
+        "telefono": "668990213"
+    },
+    {
+        "NIF": "665788934",
+        "nombre": "Jose",
+        "apellido": "Sanchez",
+        "direccion": "Calle mirador, 2 (Vera)",
+        "telefono": "655443789"
+    }
+]

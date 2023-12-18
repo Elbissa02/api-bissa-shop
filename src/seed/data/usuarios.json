@@ -1,0 +1,43 @@
+[
+    {
+        "codigo":"643",
+        "nombre":"Alonso",
+        "password":"Contraseña00",
+        "website":"pccomponentes",
+        "email":"alonsocar@gmail.com",
+        "twitter":"alonso14"
+    },
+    {
+        "codigo":"432",
+        "nombre":"Alejandra",
+        "password":"Contraseña00",
+        "website":"alejandra.com",
+        "email":"alejandragarcia@gmail.com",
+        "twitter":"alejandragarcia"
+    },
+    {
+        "codigo":"768",
+        "nombre":"Paco",
+        "password":"Contraseña00",
+        "website":"paco.com",
+        "email":"pacoegea@gmail.com",
+        "twitter":"pacoegea19"
+    },
+    {
+        "codigo":"645",
+        "nombre":"Juanjo",
+        "password":"Contraseña00",
+        "website":"juanjo.com",
+        "email":"juanjomecha.com",
+        "twitter":"juanjojuanjo"
+    },
+    {
+        "codigo":"576",
+        "nombre":"Carmen",
+        "password":"Contraseña00",
+        "website":"carmen.com",
+        "email":"carmenortega@gmail.com",
+        "twitter":"carmen17"
+    }
+
+]

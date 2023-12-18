@@ -1,0 +1,31 @@
+[
+    {
+        "ID": "1",
+        "nombre": "camiseta tommy",
+        "stock": "15",
+        "precio": "35€",
+        "proveedoreDNI": "77877843I",
+        "ventasID": "234"
+    },
+
+    {
+        "ID": "2",
+        "nombre": "sudadera adidas",
+        "stock": "30",
+        "precio": "55€"
+    },
+
+    {
+        "ID": "3",
+        "nombre": "pantalon zara",
+        "stock": "50",
+        "precio": "25€"
+    },
+
+    {
+        "ID": "4",
+        "nombre": "pantalon bershka",
+        "stock": "50",
+        "precio": "25€"
+    }
+]
